@@ -1,2 +1,2 @@
-# techdegree-project-1
- portfolio project
+# Portfolio Project
+My first project with HTML and CSS. 
