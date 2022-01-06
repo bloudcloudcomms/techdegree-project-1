@@ -1,7 +1,7 @@
 # Portfolio Project
 My first project with HTML and CSS. 
 
-I used my understanding of HTML and CSS to add images, content and additional pages from a provided homepage template.
+With my recent understanding of HTML and CSS, I added images, content, additional pages as well as CSS styling for the additional information. I used a provided homepage template and personalized.
 
 ![homepage](screenshots/home.png)
 
