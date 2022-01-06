@@ -1,7 +1,7 @@
 # Portfolio Project
 My first project with HTML and CSS. 
 
-I provided the images and content and personalized a template.
+I provided the images and content and additional pages for homepage template.
 
 ![homepage](screenshots/home.png)
 
