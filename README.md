@@ -1,7 +1,7 @@
 # Portfolio Project
-My first project with HTML and CSS. 
+My first project with HTML and CSS to make a mock portfolio website. 
 
-With my recent understanding of HTML and CSS, I added images, content, additional pages as well as CSS styling for the additional information. 
+I built up from the provided HTML and CSS to include images, content, navagiation and additional pages. 
 
 ![homepage](screenshots/home.png)
 
